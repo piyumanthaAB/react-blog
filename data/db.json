@@ -1,0 +1,28 @@
+{
+  "blogs": [
+    {
+      "title": "heloooo",
+      "body": "this is ninja content",
+      "author": "mario",
+      "id": 1
+    },
+    {
+      "title": "heloooo",
+      "body": "this is ninja content",
+      "author": "mario",
+      "id": 2
+    },
+    {
+      "title": "heloooo",
+      "body": "this is ninja content",
+      "author": "mario",
+      "id": 3
+    },
+    {
+      "title": "dsdfsdf",
+      "body": "sdfsdfsd",
+      "author": "mario",
+      "id": 4
+    }
+  ]
+}
